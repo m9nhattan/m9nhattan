@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Jacques
 
 👀 I'm the solo founder of [Faraday HQ](faradayhq.com). Faraday operates in the digital privacy space. 
-Our core product is [exo](https://exo.faradayhq.com), wherein I work with high-risk individuals to help 
+Our core offering is [exo](https://exo.faradayhq.com), wherein I work with high-risk individuals to help 
 them get on top of their digital presence and mitigate risks surrounding personal information exposure.
 
 🕵️ I Have a particular interest in software & product development, design, infosec, cryptography, and digital privacy.
